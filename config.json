@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersrocess",
+        "uuid": 8671626,
+        "checksum": "r2dihi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
